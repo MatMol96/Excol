@@ -1,6 +1,7 @@
 node_modules
 .gitignore.old
 .gitattributes.old
+.idea
 npm-debug.log
 yarn-error.log
 # BUCK
